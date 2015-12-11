@@ -8,7 +8,7 @@ By looking at use of language (on an image board!) we can see trends, topical di
 
 The html output is a balance of readability (for limited context) and ease of using in NLTK.  Some html tags are still present and can be edited from the html.
 
-The shell script makes it easy to add as a cronjob and have timed scrapes on a headless machine.  This is ideal for a raspberry pi or something similar.
+The shell script makes it easy to add as a cronjob and have timed scrapes on a headless machine or VPS.  This is ideal for a raspberry pi or something similar.
 
 ---
 
